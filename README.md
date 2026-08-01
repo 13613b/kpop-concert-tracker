@@ -25,6 +25,7 @@ Screenshots of the home page, concert form, concert overview and calendar will b
 ### Frontend
 
 - Angular
+- Bootstrap
 - TypeScript
 - HTML
 - CSS
