@@ -2,27 +2,26 @@
 
 K-Pop Concert Tracker is a web application for organizing past and upcoming K-Pop concerts. Users can save concert details and personal memories, edit existing entries, delete concerts and view saved concerts in a monthly calendar.
 
-## Features
+## ⭐️ Features
 
-- Add concerts with artist, tour, city, country, date, ticket price and personal notes
-- View all saved concerts and the total number of entries
-- Edit existing concert entries
-- Delete concerts after a confirmation prompt
-- Display concerts in a monthly calendar
-- Open concert details directly from the calendar
-- Switch between light mode and dark mode
-- Increase or decrease the font size
-- Open KpopOfficial as an external source for K-Pop information
-- Store concert data permanently in MongoDB Atlas
-- Responsive layout for desktop and smaller screens
+- 🗒️ Add concerts with artist, tour, city, country, date, ticket price and personal notes
+- ✔️ View all saved concerts and the total number of entries
+- ✍️ Edit and delete existing concert entries
+- 📆 Display concerts in a monthly calendar
+- 📂 Open concert details directly from the calendar
+- ☀️ Switch between light mode and dark mode
+- 🔍 Increase or decrease the font size
+- 🎶 Open KpopOfficial as an external source for K-Pop information
+- 📊 Store concert data permanently in MongoDB Atlas
+- 📱 Responsive layout for desktop and smaller screens
 
-## Screenshots
+## 📸 Screenshots
 
 Screenshots of the home page, concert form, concert overview and calendar will be added before submission.
 
-## Technologies
+## 🧰 Technologies
 
-### Frontend
+### 🎨 Frontend
 
 - Angular
 - Bootstrap
@@ -32,7 +31,7 @@ Screenshots of the home page, concert form, concert overview and calendar will b
 - Angular Forms
 - Angular HttpClient
 
-### Backend
+### ⚙️ Backend
 
 - Node.js
 - Express
@@ -40,11 +39,11 @@ Screenshots of the home page, concert form, concert overview and calendar will b
 - dotenv
 - CORS
 
-### Database
+### 🗄️ Database
 
 - MongoDB Atlas
 
-## Project structure
+## 🗂️ Project structure
 
 ```text
 kpop-concert-tracker/
@@ -61,7 +60,7 @@ kpop-concert-tracker/
 └── README.md
 ```
 
-## Prerequisites
+## ✅ Prerequisites
 
 The following software and services are required:
 
@@ -70,7 +69,7 @@ The following software and services are required:
 - A free MongoDB Atlas account
 - A MongoDB Atlas cluster and database user
 
-## Installation
+## ⚙️ Installation
 
 ### 1. Clone the repository
 
@@ -130,7 +129,7 @@ http://localhost:4200
 
 The backend must continue running in the first terminal while the application is used.
 
-## Usage
+## 📖 Usage
 
 ### Add a concert
 
@@ -157,7 +156,7 @@ The backend must continue running in the first terminal while the application is
 - Use the moon or sun button to switch between dark mode and light mode.
 - Use **A-** and **A+** to adjust the font size.
 
-## REST API
+## 🔌 REST API
 
 The backend runs on `http://localhost:3000` and provides these routes:
 
@@ -169,7 +168,7 @@ The backend runs on `http://localhost:3000` and provides these routes:
 | PUT | `/api/concerts/:id` | Update a concert |
 | DELETE | `/api/concerts/:id` | Delete a concert |
 
-## Use of AI tools
+## 🤖 Use of AI tools
 
 - **ChatGPT / Codex:** Used for explanations, debugging support, improving responsive form layout, connecting the Node.js backend to MongoDB with Mongoose and structuring the project documentation.
 
@@ -177,12 +176,11 @@ All generated or suggested code was reviewed and tested as part of the project. 
 
 ## Possible future improvements
 
-- Search and filter concerts
-- Add concert status categories such as past, upcoming and dream concert
-- Add image uploads with appropriately licensed images
-- Add user registration and login
-- Deploy the frontend and backend
+- 🔍 Search and filter concerts
+- 📷 Add image uploads with appropriately licensed images
+- 🔐 Add user registration and login
+- 🌏 Deploy the frontend and backend
 
-## Author
+## 👤 Author
 
 Ela-Nur Kuyubasioglu, 2026
