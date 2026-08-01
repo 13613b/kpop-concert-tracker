@@ -87,14 +87,14 @@ cd backend
 npm install
 ```
 
-Copy `.env.example` to a new file called `.env`. Replace the placeholders with the database user, password and cluster address from MongoDB Atlas:
+Copy `.env.example` to a new file called `.env`. Paste the connection string provided by MongoDB Atlas and add `kpop_concert_tracker` as the database name:
 
 ```env
-MONGODB_URI="mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/kpop_concert_tracker?retryWrites=true&w=majority"
+MONGODB_URI="PASTE_YOUR_MONGODB_ATLAS_CONNECTION_STRING_HERE"
 PORT=3000
 ```
 
-The `.env` file contains private credentials and must never be committed to Git.
+Replace the placeholder with the complete private connection string. The `.env` file contains private credentials and must never be committed to Git.
 
 Make sure that the current IP address is included in the MongoDB Atlas IP access list. Then start the backend:
 
