@@ -1,4 +1,4 @@
-# K-Pop Concert Tracker
+# 🎀 K-Pop Concert Tracker
 
 K-Pop Concert Tracker is a web application for organizing past and upcoming K-Pop concerts. Users can save concert details and personal memories, edit existing entries, delete concerts and view saved concerts in a monthly calendar.
 
