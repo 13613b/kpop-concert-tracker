@@ -174,7 +174,7 @@ The backend runs on `http://localhost:3000` and provides these routes:
 
 All generated or suggested code was reviewed and tested as part of the project. The application code and its functionality must be explainable during the submission discussion.
 
-## Possible future improvements
+## ⏳ Possible future improvements
 
 - 🔍 Search and filter concerts
 - 📷 Add image uploads with appropriately licensed images
