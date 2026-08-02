@@ -202,8 +202,6 @@ The backend runs on `http://localhost:3000` and provides these routes:
 
 - **ChatGPT / Codex:** Used for explanations, debugging support, improving responsive form layout, connecting the Node.js backend to MongoDB with Mongoose and structuring the project documentation.
 
-All generated or suggested code was reviewed and tested as part of the project. The application code and its functionality must be explainable during the submission discussion.
-
 ## ⏳ Possible future improvements
 
 - 🔍 Search and filter concerts
