@@ -17,8 +17,6 @@ K-Pop Concert Tracker is a web application for organizing past and upcoming K-Po
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Home page
 
 ![Home page](frontend/frontend-app/screenshots/home-desktop.png)
@@ -45,11 +43,7 @@ K-Pop Concert Tracker is a web application for organizing past and upcoming K-Po
 
 ### 📂 View concert details in the calendar
 
-![Calendar concert details](frontend/frontend-app/screenshots/calendar-details.png)
-
-### 📱 Responsive mobile view
-
-![Mobile view](frontend/frontend-app/screenshots/home-mobile.png)
+![Calendar details](frontend/frontend-app/screenshots/calendar-details.png)
 
 ## 🧰 Technologies
 
